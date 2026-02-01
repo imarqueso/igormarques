@@ -514,7 +514,7 @@ body {
 .projetos-container {
      width: 100%;
     height: auto;
-    padding: 6rem 0 6rem 0;
+    padding: 4rem 0 6rem 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -997,5 +997,6 @@ body {
         margin-left: 0.3rem;
     }
 }
+
 
 
