@@ -35,14 +35,13 @@
 }
 
 
-
 body {
     background-color: #FFFFFF;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-family: "Google Sans", sans-serif;
 }
 
 .header-container {
