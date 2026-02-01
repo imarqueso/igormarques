@@ -830,8 +830,16 @@ body {
 }
 
 @media (max-width: 625px) { 
+    .header-container .header-content .box-menu a {
+        font-weight: 400;
+    }
+
     .principal-container {
         padding: 6rem 0 4rem 0;
+    }
+
+    .principal-container .principal-content h3 {
+        font-weight: 400;
     }
 
     .principal-container .principal-content h1 {
@@ -840,10 +848,12 @@ body {
 
     .principal-container .principal-content h2 {
         font-size: 1.4rem;
+        font-weight: 400;
     }
 
     .principal-container .principal-content a {
         font-size: 1.4rem;    
+        font-weight: 400;
     }
 
    .experiencia-container .experiencia-content .experiencia-card {
@@ -856,15 +866,26 @@ body {
 
     .experiencia-container .experiencia-content h3 {
         width: 100%;
+        font-weight: 400; 
     }
 
     .experiencia-container .experiencia-content p {
         width: 100%;
         font-size: 1.4rem;  
+        font-weight: 400; 
+    }
+
+    .sobre-container .sobre-content .sobre-box2 h2 {
+        font-weight: 400;
     }
 
     .sobre-container .sobre-content .sobre-box2 p {
-        font-size: 1.4rem;    
+        font-size: 1.4rem;  
+        font-weight: 400;  
+    }
+
+    .tecnologias-box span {
+         font-weight: 400;  
     }
 
     .projetos-container {
@@ -879,8 +900,20 @@ body {
         font-size: 1.4rem;  
     }
 
+    .projetos-container .projetos-content .pre-titulo {
+         font-weight: 400; 
+    }
+
     .projetos-container .projetos-content .projetos-box .projetos-card p {
          font-size: 1.4rem; 
+    }
+
+    .projetos-container .projetos-content .projetos-box .projetos-card p {
+         font-weight: 400; 
+    }
+
+    .projetos-container .projetos-content .projetos-box .projetos-card .tecnologias-projetos span {
+        font-weight: 400; 
     }
 
     .contato-container .contato-content h1 {
@@ -891,12 +924,20 @@ body {
         width: 100%;
     }
 
+    .experiencia-container .experiencia-content .pre-titulo {
+         font-weight: 400;  
+    }
+
     .experiencia-container .experiencia-content .titulo {
         width: 100%;
     }
 
     .experiencia-container .experiencia-content .experiencia-box {
         padding: 1.25rem 0;
+    }
+
+    .experiencia-container .experiencia-content .experiencia-box h2 {
+        font-weight: 400;  
     }
     
     html {
@@ -906,6 +947,18 @@ body {
 
     .projetos-container .projetos-content .projetos-box .projetos-card h2 {
         width: 100%;
+    }
+
+    .contato-container .contato-content h3 {
+        font-weight: 400; 
+    }
+
+    .contato-container .contato-content p {
+        font-weight: 400; 
+    }
+
+    .contato-container .contato-content .btn-contato {
+        font-weight: 400; 
     }
 }
 
