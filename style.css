@@ -806,14 +806,20 @@ body {
 
     .sobre-container .sobre-content .sobre-box2 {
         width: 100%;
+        align-items: center;
     }
 
     .sobre-container .sobre-content .sobre-box2 h1 {
         width: 100%;
+        text-align: center;
     }
 
     .sobre-container .sobre-content .sobre-box2 p {
         width: 100%;
+    }
+
+     .sobre-container .sobre-content .sobre-box2 h2 {
+        text-align: center;
     }
 
     .experiencia-container {
@@ -877,6 +883,11 @@ body {
 
     .sobre-container .sobre-content .sobre-box2 h2 {
         font-weight: 400;
+        text-align: center;
+    }
+
+    .sobre-container .sobre-content .sobre-box2 h1 {
+       text-align: center;
     }
 
     .sobre-container .sobre-content .sobre-box2 p {
@@ -986,3 +997,4 @@ body {
         margin-left: 0.3rem;
     }
 }
+
