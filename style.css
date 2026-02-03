@@ -41,7 +41,7 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-     font-family: "Lato", sans-serif;
+     font-family: "Urbanist", sans-serif;
 }
 
 .header-container {
@@ -997,6 +997,7 @@ body {
         margin-left: 0.3rem;
     }
 }
+
 
 
 
