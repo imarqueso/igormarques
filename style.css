@@ -125,7 +125,7 @@ body {
     text-align: center;
     font-size: 1.1rem;
     color: #717171;
-    font-weight: 200;
+    font-weight: 400;
     cursor: pointer;
     background-color: transparent;
     transition: 0.3s ease all;
@@ -197,7 +197,7 @@ body {
     text-align: center;
     font-size: 1.25rem;
     color: #2A6DF4;
-    font-weight: 200;
+    font-weight: 400;
     margin-bottom: 1.175rem;
 }
 
@@ -213,7 +213,7 @@ body {
     text-align: center;
     font-size: 1.875rem;
     color: #717171;
-    font-weight: 200;
+    font-weight: 400;
     margin-bottom: 3.125rem;
     max-width: 45rem;
 }
@@ -230,7 +230,7 @@ body {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    font-weight: 200;
+    font-weight: 400;
     transition: 0.3s ease all;
 }
 
@@ -315,7 +315,7 @@ body {
 
 .sobre-container .sobre-content .sobre-box2 h2 {
     text-transform: uppercase;
-    font-weight: 200;
+    font-weight: 400;
     font-size: 1rem;
     text-align: left;
     color: #2A6DF4;
@@ -391,7 +391,7 @@ body {
 
 .experiencia-container .experiencia-content .pre-titulo {
     text-transform: uppercase;
-    font-weight: 200;
+    font-weight: 400;
     font-size: 1rem;
     text-align: left;
     color: #2A6DF4;
@@ -451,7 +451,7 @@ body {
 
 
 .experiencia-container .experiencia-content .experiencia-box h2 {
-    font-weight: 200;
+    font-weight: 400;
     font-size: 0.95rem;
     text-align: left;
     color: #2A6DF4;
@@ -533,7 +533,7 @@ body {
 
 .projetos-container .projetos-content .pre-titulo {
     text-transform: uppercase;
-    font-weight: 200;
+    font-weight: 400;
     font-size: 1rem;
     text-align: left;
     color: #2A6DF4;
@@ -666,7 +666,7 @@ body {
 
 .contato-container .contato-content h3 {
     text-transform: uppercase;
-    font-weight: 200;
+    font-weight: 400;
     font-size: 1rem;
     text-align: left;
     color: #2A6DF4;
@@ -988,7 +988,7 @@ body {
         text-align: center;
         font-size: 0.9rem;
         color: #717171;
-        font-weight: 200;
+        font-weight: 400;
         cursor: pointer;
         background-color: transparent;
         transition: 0.3s ease all;
@@ -997,6 +997,7 @@ body {
         margin-left: 0.3rem;
     }
 }
+
 
 
 
